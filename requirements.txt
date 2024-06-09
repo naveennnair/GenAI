@@ -1,0 +1,10 @@
+openai==1.33.0
+pinecone==4.0.0
+gunicorn==22.0.0
+click==8.0.3
+colorama==0.4.4
+Flask==2.2.5
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.1.1
+Werkzeug==2.2.2
